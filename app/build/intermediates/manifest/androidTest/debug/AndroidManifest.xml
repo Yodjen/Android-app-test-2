@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.retrofitjson.retrofit_json_app.test" >
+    package="com.android.retrofitjson.retrofit_json.test" >
 
     <uses-sdk
         android:minSdkVersion="16"
@@ -10,8 +10,8 @@
         android:name="android.support.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.android.retrofitjson.retrofit_json_app"
-        android:targetPackage="com.android.retrofitjson.retrofit_json_app" />
+        android:label="Tests for com.android.retrofitjson.retrofit_json"
+        android:targetPackage="com.android.retrofitjson.retrofit_json" />
 
     <application>
         <uses-library android:name="android.test.runner" />

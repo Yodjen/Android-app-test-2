@@ -3272,35 +3272,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.android.retrofitjson.retrofit_json_app:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.android.retrofitjson.retrofit_json_app:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.android.retrofitjson.retrofit_json_app:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.android.retrofitjson.retrofit_json_app:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.android.retrofitjson.retrofit_json_app:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.android.retrofitjson.retrofit_json_app:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.android.retrofitjson.retrofit_json_app:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.android.retrofitjson.retrofit_json_app:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.android.retrofitjson.retrofit_json_app:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.android.retrofitjson.retrofit_json_app:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.android.retrofitjson.retrofit_json_app:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.android.retrofitjson.retrofit_json_app:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.android.retrofitjson.retrofit_json_app:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.android.retrofitjson.retrofit_json_app:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.android.retrofitjson.retrofit_json_app:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.android.retrofitjson.retrofit_json_app:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.android.retrofitjson.retrofit_json_app:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.android.retrofitjson.retrofit_json_app:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.android.retrofitjson.retrofit_json_app:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.android.retrofitjson.retrofit_json_app:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.android.retrofitjson.retrofit_json_app:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.android.retrofitjson.retrofit_json_app:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.android.retrofitjson.retrofit_json_app:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.android.retrofitjson.retrofit_json_app:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.android.retrofitjson.retrofit_json_app:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.android.retrofitjson.retrofit_json_app:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.android.retrofitjson.retrofit_json_app:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.android.retrofitjson.retrofit_json_app:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.android.retrofitjson.retrofit_json_app:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.android.retrofitjson.retrofit_json:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.android.retrofitjson.retrofit_json:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.android.retrofitjson.retrofit_json:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.android.retrofitjson.retrofit_json:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.android.retrofitjson.retrofit_json:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.android.retrofitjson.retrofit_json:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.android.retrofitjson.retrofit_json:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.android.retrofitjson.retrofit_json:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.android.retrofitjson.retrofit_json:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.android.retrofitjson.retrofit_json:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.android.retrofitjson.retrofit_json:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.android.retrofitjson.retrofit_json:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.android.retrofitjson.retrofit_json:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.android.retrofitjson.retrofit_json:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.android.retrofitjson.retrofit_json:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.android.retrofitjson.retrofit_json:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.android.retrofitjson.retrofit_json:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.android.retrofitjson.retrofit_json:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.android.retrofitjson.retrofit_json:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.android.retrofitjson.retrofit_json:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.android.retrofitjson.retrofit_json:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.android.retrofitjson.retrofit_json:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.android.retrofitjson.retrofit_json:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.android.retrofitjson.retrofit_json:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.android.retrofitjson.retrofit_json:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.android.retrofitjson.retrofit_json:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.android.retrofitjson.retrofit_json:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.android.retrofitjson.retrofit_json:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.android.retrofitjson.retrofit_json:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3343,17 +3343,17 @@ containing a value of this type.
             0x7f01005f
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#background}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:background
+          @attr name com.android.retrofitjson.retrofit_json:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3361,11 +3361,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:backgroundSplit
+          @attr name com.android.retrofitjson.retrofit_json:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3373,11 +3373,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:backgroundStacked
+          @attr name com.android.retrofitjson.retrofit_json:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3389,11 +3389,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:contentInsetEnd
+          @attr name com.android.retrofitjson.retrofit_json:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3405,11 +3405,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:contentInsetEndWithActions
+          @attr name com.android.retrofitjson.retrofit_json:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3421,11 +3421,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:contentInsetLeft
+          @attr name com.android.retrofitjson.retrofit_json:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3437,11 +3437,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:contentInsetRight
+          @attr name com.android.retrofitjson.retrofit_json:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3453,11 +3453,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:contentInsetStart
+          @attr name com.android.retrofitjson.retrofit_json:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3469,21 +3469,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:contentInsetStartWithNavigation
+          @attr name com.android.retrofitjson.retrofit_json:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:customNavigationLayout
+          @attr name com.android.retrofitjson.retrofit_json:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3501,21 +3501,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:displayOptions
+          @attr name com.android.retrofitjson.retrofit_json:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:divider
+          @attr name com.android.retrofitjson.retrofit_json:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3527,11 +3527,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:elevation
+          @attr name com.android.retrofitjson.retrofit_json:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#height}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3543,11 +3543,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:height
+          @attr name com.android.retrofitjson.retrofit_json:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3557,51 +3557,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:hideOnContentScroll
+          @attr name com.android.retrofitjson.retrofit_json:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:homeAsUpIndicator
+          @attr name com.android.retrofitjson.retrofit_json:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:homeLayout
+          @attr name com.android.retrofitjson.retrofit_json:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:icon
+          @attr name com.android.retrofitjson.retrofit_json:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:indeterminateProgressStyle
+          @attr name com.android.retrofitjson.retrofit_json:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3613,21 +3613,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:itemPadding
+          @attr name com.android.retrofitjson.retrofit_json:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:logo
+          @attr name com.android.retrofitjson.retrofit_json:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3641,21 +3641,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:navigationMode
+          @attr name com.android.retrofitjson.retrofit_json:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:popupTheme
+          @attr name com.android.retrofitjson.retrofit_json:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3667,21 +3667,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:progressBarPadding
+          @attr name com.android.retrofitjson.retrofit_json:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:progressBarStyle
+          @attr name com.android.retrofitjson.retrofit_json:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3691,21 +3691,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:subtitle
+          @attr name com.android.retrofitjson.retrofit_json:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:subtitleTextStyle
+          @attr name com.android.retrofitjson.retrofit_json:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#title}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3715,17 +3715,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:title
+          @attr name com.android.retrofitjson.retrofit_json:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:titleTextStyle
+          @attr name com.android.retrofitjson.retrofit_json:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -3777,12 +3777,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.android.retrofitjson.retrofit_json_app:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.android.retrofitjson.retrofit_json_app:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.android.retrofitjson.retrofit_json_app:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.android.retrofitjson.retrofit_json_app:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.android.retrofitjson.retrofit_json_app:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.android.retrofitjson.retrofit_json_app:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.android.retrofitjson.retrofit_json:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.android.retrofitjson.retrofit_json:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.android.retrofitjson.retrofit_json:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.android.retrofitjson.retrofit_json:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.android.retrofitjson.retrofit_json:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.android.retrofitjson.retrofit_json:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3796,17 +3796,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#background}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:background
+          @attr name com.android.retrofitjson.retrofit_json:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3814,21 +3814,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:backgroundSplit
+          @attr name com.android.retrofitjson.retrofit_json:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:closeItemLayout
+          @attr name com.android.retrofitjson.retrofit_json:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#height}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3840,27 +3840,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:height
+          @attr name com.android.retrofitjson.retrofit_json:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:subtitleTextStyle
+          @attr name com.android.retrofitjson.retrofit_json:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:titleTextStyle
+          @attr name com.android.retrofitjson.retrofit_json:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -3869,8 +3869,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.android.retrofitjson.retrofit_json_app:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.android.retrofitjson.retrofit_json_app:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.android.retrofitjson.retrofit_json:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.android.retrofitjson.retrofit_json:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -3879,17 +3879,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001f, 0x7f010020
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:expandActivityOverflowButtonDrawable
+          @attr name com.android.retrofitjson.retrofit_json:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -3899,7 +3899,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:initialActivityCount
+          @attr name com.android.retrofitjson.retrofit_json:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -3909,11 +3909,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.android.retrofitjson.retrofit_json_app:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.android.retrofitjson.retrofit_json_app:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.android.retrofitjson.retrofit_json_app:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.android.retrofitjson.retrofit_json_app:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.android.retrofitjson.retrofit_json_app:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.android.retrofitjson.retrofit_json:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.android.retrofitjson.retrofit_json:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.android.retrofitjson.retrofit_json:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.android.retrofitjson.retrofit_json:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.android.retrofitjson.retrofit_json:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -3933,53 +3933,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:buttonPanelSideLayout
+          @attr name com.android.retrofitjson.retrofit_json:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:listItemLayout
+          @attr name com.android.retrofitjson.retrofit_json:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:listLayout
+          @attr name com.android.retrofitjson.retrofit_json:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:multiChoiceItemLayout
+          @attr name com.android.retrofitjson.retrofit_json:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:singleChoiceItemLayout
+          @attr name com.android.retrofitjson.retrofit_json:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -3989,8 +3989,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation com.android.retrofitjson.retrofit_json_app:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded com.android.retrofitjson.retrofit_json_app:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.android.retrofitjson.retrofit_json:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded com.android.retrofitjson.retrofit_json:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -4006,7 +4006,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4018,11 +4018,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:elevation
+          @attr name com.android.retrofitjson.retrofit_json:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#expanded}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4032,7 +4032,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:expanded
+          @attr name com.android.retrofitjson.retrofit_json:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4041,8 +4041,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.android.retrofitjson.retrofit_json_app:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.android.retrofitjson.retrofit_json_app:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.android.retrofitjson.retrofit_json:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.android.retrofitjson.retrofit_json:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4051,7 +4051,7 @@ containing a value of this type.
             0x7f010027, 0x7f010028
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4061,11 +4061,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:state_collapsed
+          @attr name com.android.retrofitjson.retrofit_json:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4075,7 +4075,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:state_collapsible
+          @attr name com.android.retrofitjson.retrofit_json:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4084,8 +4084,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.android.retrofitjson.retrofit_json_app:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.android.retrofitjson.retrofit_json_app:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.android.retrofitjson.retrofit_json:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.android.retrofitjson.retrofit_json:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4094,7 +4094,7 @@ containing a value of this type.
             0x7f010029, 0x7f01002a
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4110,17 +4110,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:layout_scrollFlags
+          @attr name com.android.retrofitjson.retrofit_json:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:layout_scrollInterpolator
+          @attr name com.android.retrofitjson.retrofit_json:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4130,7 +4130,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.android.retrofitjson.retrofit_json_app:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.android.retrofitjson.retrofit_json:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4145,13 +4145,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:srcCompat
+          @attr name com.android.retrofitjson.retrofit_json:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4161,9 +4161,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.android.retrofitjson.retrofit_json_app:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.android.retrofitjson.retrofit_json_app:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.android.retrofitjson.retrofit_json_app:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.android.retrofitjson.retrofit_json:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.android.retrofitjson.retrofit_json:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.android.retrofitjson.retrofit_json:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4180,17 +4180,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:tickMark
+          @attr name com.android.retrofitjson.retrofit_json:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4201,11 +4201,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:tickMarkTint
+          @attr name com.android.retrofitjson.retrofit_json:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4222,7 +4222,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:tickMarkTintMode
+          @attr name com.android.retrofitjson.retrofit_json:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4300,7 +4300,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.android.retrofitjson.retrofit_json_app:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.android.retrofitjson.retrofit_json:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -4315,14 +4315,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:textAllCaps
+          @attr name com.android.retrofitjson.retrofit_json:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -4331,121 +4331,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.android.retrofitjson.retrofit_json_app:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.android.retrofitjson.retrofit_json_app:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.android.retrofitjson.retrofit_json_app:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.android.retrofitjson.retrofit_json_app:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.android.retrofitjson.retrofit_json_app:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.android.retrofitjson.retrofit_json_app:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.android.retrofitjson.retrofit_json_app:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.android.retrofitjson.retrofit_json_app:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.android.retrofitjson.retrofit_json_app:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.android.retrofitjson.retrofit_json_app:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.android.retrofitjson.retrofit_json_app:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.android.retrofitjson.retrofit_json_app:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.android.retrofitjson.retrofit_json_app:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.android.retrofitjson.retrofit_json_app:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.android.retrofitjson.retrofit_json_app:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.android.retrofitjson.retrofit_json_app:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.android.retrofitjson.retrofit_json_app:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.android.retrofitjson.retrofit_json_app:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.android.retrofitjson.retrofit_json_app:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.android.retrofitjson.retrofit_json_app:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.android.retrofitjson.retrofit_json_app:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.android.retrofitjson.retrofit_json_app:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.android.retrofitjson.retrofit_json_app:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.android.retrofitjson.retrofit_json_app:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.android.retrofitjson.retrofit_json_app:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.android.retrofitjson.retrofit_json_app:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.android.retrofitjson.retrofit_json_app:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.android.retrofitjson.retrofit_json_app:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.android.retrofitjson.retrofit_json_app:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.android.retrofitjson.retrofit_json_app:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.android.retrofitjson.retrofit_json_app:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.android.retrofitjson.retrofit_json_app:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.android.retrofitjson.retrofit_json_app:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.android.retrofitjson.retrofit_json_app:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.android.retrofitjson.retrofit_json_app:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.android.retrofitjson.retrofit_json:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.android.retrofitjson.retrofit_json:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.android.retrofitjson.retrofit_json:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.android.retrofitjson.retrofit_json:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.android.retrofitjson.retrofit_json:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.android.retrofitjson.retrofit_json:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.android.retrofitjson.retrofit_json:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.android.retrofitjson.retrofit_json:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.android.retrofitjson.retrofit_json:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.android.retrofitjson.retrofit_json:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.android.retrofitjson.retrofit_json:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.android.retrofitjson.retrofit_json:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.android.retrofitjson.retrofit_json:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.android.retrofitjson.retrofit_json:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.android.retrofitjson.retrofit_json:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.android.retrofitjson.retrofit_json:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.android.retrofitjson.retrofit_json:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.android.retrofitjson.retrofit_json:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.android.retrofitjson.retrofit_json:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.android.retrofitjson.retrofit_json:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.android.retrofitjson.retrofit_json:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.android.retrofitjson.retrofit_json:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.android.retrofitjson.retrofit_json:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.android.retrofitjson.retrofit_json:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.android.retrofitjson.retrofit_json:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.android.retrofitjson.retrofit_json:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.android.retrofitjson.retrofit_json:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.android.retrofitjson.retrofit_json:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.android.retrofitjson.retrofit_json:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.android.retrofitjson.retrofit_json:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.android.retrofitjson.retrofit_json:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.android.retrofitjson.retrofit_json:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.android.retrofitjson.retrofit_json:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.android.retrofitjson.retrofit_json:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.android.retrofitjson.retrofit_json:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.android.retrofitjson.retrofit_json_app:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.android.retrofitjson.retrofit_json_app:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.android.retrofitjson.retrofit_json_app:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.android.retrofitjson.retrofit_json_app:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.android.retrofitjson.retrofit_json_app:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.android.retrofitjson.retrofit_json_app:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.android.retrofitjson.retrofit_json_app:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.android.retrofitjson.retrofit_json_app:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.android.retrofitjson.retrofit_json_app:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.android.retrofitjson.retrofit_json_app:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.android.retrofitjson.retrofit_json_app:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.android.retrofitjson.retrofit_json_app:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.android.retrofitjson.retrofit_json_app:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.android.retrofitjson.retrofit_json_app:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.android.retrofitjson.retrofit_json_app:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.android.retrofitjson.retrofit_json_app:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.android.retrofitjson.retrofit_json_app:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.android.retrofitjson.retrofit_json_app:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.android.retrofitjson.retrofit_json_app:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.android.retrofitjson.retrofit_json_app:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.android.retrofitjson.retrofit_json_app:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.android.retrofitjson.retrofit_json_app:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.android.retrofitjson.retrofit_json_app:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.android.retrofitjson.retrofit_json_app:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.android.retrofitjson.retrofit_json_app:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.android.retrofitjson.retrofit_json_app:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.android.retrofitjson.retrofit_json_app:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.android.retrofitjson.retrofit_json_app:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.android.retrofitjson.retrofit_json_app:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.android.retrofitjson.retrofit_json_app:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.android.retrofitjson.retrofit_json_app:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.android.retrofitjson.retrofit_json_app:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.android.retrofitjson.retrofit_json_app:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.android.retrofitjson.retrofit_json_app:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.android.retrofitjson.retrofit_json_app:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.android.retrofitjson.retrofit_json_app:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.android.retrofitjson.retrofit_json_app:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.android.retrofitjson.retrofit_json_app:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.android.retrofitjson.retrofit_json_app:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.android.retrofitjson.retrofit_json_app:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.android.retrofitjson.retrofit_json_app:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.android.retrofitjson.retrofit_json_app:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.android.retrofitjson.retrofit_json_app:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.android.retrofitjson.retrofit_json_app:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.android.retrofitjson.retrofit_json_app:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.android.retrofitjson.retrofit_json_app:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.android.retrofitjson.retrofit_json_app:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.android.retrofitjson.retrofit_json_app:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.android.retrofitjson.retrofit_json_app:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.android.retrofitjson.retrofit_json_app:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.android.retrofitjson.retrofit_json_app:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.android.retrofitjson.retrofit_json_app:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.android.retrofitjson.retrofit_json_app:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.android.retrofitjson.retrofit_json_app:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.android.retrofitjson.retrofit_json_app:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.android.retrofitjson.retrofit_json_app:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.android.retrofitjson.retrofit_json_app:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.android.retrofitjson.retrofit_json_app:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.android.retrofitjson.retrofit_json_app:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.android.retrofitjson.retrofit_json_app:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.android.retrofitjson.retrofit_json_app:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.android.retrofitjson.retrofit_json_app:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.android.retrofitjson.retrofit_json_app:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.android.retrofitjson.retrofit_json_app:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.android.retrofitjson.retrofit_json_app:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.android.retrofitjson.retrofit_json_app:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.android.retrofitjson.retrofit_json_app:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.android.retrofitjson.retrofit_json_app:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.android.retrofitjson.retrofit_json_app:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.android.retrofitjson.retrofit_json_app:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.android.retrofitjson.retrofit_json_app:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.android.retrofitjson.retrofit_json_app:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.android.retrofitjson.retrofit_json_app:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.android.retrofitjson.retrofit_json_app:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.android.retrofitjson.retrofit_json_app:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.android.retrofitjson.retrofit_json_app:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.android.retrofitjson.retrofit_json_app:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.android.retrofitjson.retrofit_json_app:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.android.retrofitjson.retrofit_json:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.android.retrofitjson.retrofit_json:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.android.retrofitjson.retrofit_json:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.android.retrofitjson.retrofit_json:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.android.retrofitjson.retrofit_json:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.android.retrofitjson.retrofit_json:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.android.retrofitjson.retrofit_json:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.android.retrofitjson.retrofit_json:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.android.retrofitjson.retrofit_json:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.android.retrofitjson.retrofit_json:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.android.retrofitjson.retrofit_json:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.android.retrofitjson.retrofit_json:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.android.retrofitjson.retrofit_json:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.android.retrofitjson.retrofit_json:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.android.retrofitjson.retrofit_json:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.android.retrofitjson.retrofit_json:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.android.retrofitjson.retrofit_json:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.android.retrofitjson.retrofit_json:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.android.retrofitjson.retrofit_json:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.android.retrofitjson.retrofit_json:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.android.retrofitjson.retrofit_json:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.android.retrofitjson.retrofit_json:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.android.retrofitjson.retrofit_json:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.android.retrofitjson.retrofit_json:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.android.retrofitjson.retrofit_json:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.android.retrofitjson.retrofit_json:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.android.retrofitjson.retrofit_json:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.android.retrofitjson.retrofit_json:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.android.retrofitjson.retrofit_json:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.android.retrofitjson.retrofit_json:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.android.retrofitjson.retrofit_json:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.android.retrofitjson.retrofit_json:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.android.retrofitjson.retrofit_json:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.android.retrofitjson.retrofit_json:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.android.retrofitjson.retrofit_json:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.android.retrofitjson.retrofit_json:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.android.retrofitjson.retrofit_json:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.android.retrofitjson.retrofit_json:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.android.retrofitjson.retrofit_json:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.android.retrofitjson.retrofit_json:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.android.retrofitjson.retrofit_json:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.android.retrofitjson.retrofit_json:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.android.retrofitjson.retrofit_json:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.android.retrofitjson.retrofit_json:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.android.retrofitjson.retrofit_json:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.android.retrofitjson.retrofit_json:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.android.retrofitjson.retrofit_json:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.android.retrofitjson.retrofit_json:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.android.retrofitjson.retrofit_json:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.android.retrofitjson.retrofit_json:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.android.retrofitjson.retrofit_json:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.android.retrofitjson.retrofit_json:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.android.retrofitjson.retrofit_json:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.android.retrofitjson.retrofit_json:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.android.retrofitjson.retrofit_json:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.android.retrofitjson.retrofit_json:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.android.retrofitjson.retrofit_json:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.android.retrofitjson.retrofit_json:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.android.retrofitjson.retrofit_json:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.android.retrofitjson.retrofit_json:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.android.retrofitjson.retrofit_json:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.android.retrofitjson.retrofit_json:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.android.retrofitjson.retrofit_json:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.android.retrofitjson.retrofit_json:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.android.retrofitjson.retrofit_json:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.android.retrofitjson.retrofit_json:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.android.retrofitjson.retrofit_json:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.android.retrofitjson.retrofit_json:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.android.retrofitjson.retrofit_json:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.android.retrofitjson.retrofit_json:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.android.retrofitjson.retrofit_json:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.android.retrofitjson.retrofit_json:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.android.retrofitjson.retrofit_json:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.android.retrofitjson.retrofit_json:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.android.retrofitjson.retrofit_json:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.android.retrofitjson.retrofit_json:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.android.retrofitjson.retrofit_json:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.android.retrofitjson.retrofit_json:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -4595,37 +4595,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01009e, 0x7f01009f, 0x7f0100a0
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionBarDivider
+          @attr name com.android.retrofitjson.retrofit_json:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionBarItemBackground
+          @attr name com.android.retrofitjson.retrofit_json:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionBarPopupTheme
+          @attr name com.android.retrofitjson.retrofit_json:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4645,111 +4645,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:actionBarSize
+          @attr name com.android.retrofitjson.retrofit_json:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionBarSplitStyle
+          @attr name com.android.retrofitjson.retrofit_json:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionBarStyle
+          @attr name com.android.retrofitjson.retrofit_json:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionBarTabBarStyle
+          @attr name com.android.retrofitjson.retrofit_json:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionBarTabStyle
+          @attr name com.android.retrofitjson.retrofit_json:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionBarTabTextStyle
+          @attr name com.android.retrofitjson.retrofit_json:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionBarTheme
+          @attr name com.android.retrofitjson.retrofit_json:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionBarWidgetTheme
+          @attr name com.android.retrofitjson.retrofit_json:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionButtonStyle
+          @attr name com.android.retrofitjson.retrofit_json:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionDropDownStyle
+          @attr name com.android.retrofitjson.retrofit_json:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionMenuTextAppearance
+          @attr name com.android.retrofitjson.retrofit_json:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4757,181 +4757,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionMenuTextColor
+          @attr name com.android.retrofitjson.retrofit_json:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionModeBackground
+          @attr name com.android.retrofitjson.retrofit_json:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionModeCloseButtonStyle
+          @attr name com.android.retrofitjson.retrofit_json:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionModeCloseDrawable
+          @attr name com.android.retrofitjson.retrofit_json:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionModeCopyDrawable
+          @attr name com.android.retrofitjson.retrofit_json:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionModeCutDrawable
+          @attr name com.android.retrofitjson.retrofit_json:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionModeFindDrawable
+          @attr name com.android.retrofitjson.retrofit_json:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionModePasteDrawable
+          @attr name com.android.retrofitjson.retrofit_json:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionModePopupWindowStyle
+          @attr name com.android.retrofitjson.retrofit_json:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionModeSelectAllDrawable
+          @attr name com.android.retrofitjson.retrofit_json:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionModeShareDrawable
+          @attr name com.android.retrofitjson.retrofit_json:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionModeSplitBackground
+          @attr name com.android.retrofitjson.retrofit_json:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionModeStyle
+          @attr name com.android.retrofitjson.retrofit_json:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionModeWebSearchDrawable
+          @attr name com.android.retrofitjson.retrofit_json:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionOverflowButtonStyle
+          @attr name com.android.retrofitjson.retrofit_json:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionOverflowMenuStyle
+          @attr name com.android.retrofitjson.retrofit_json:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:activityChooserViewStyle
+          @attr name com.android.retrofitjson.retrofit_json:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:alertDialogButtonGroupStyle
+          @attr name com.android.retrofitjson.retrofit_json:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4941,27 +4941,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:alertDialogCenterButtons
+          @attr name com.android.retrofitjson.retrofit_json:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:alertDialogStyle
+          @attr name com.android.retrofitjson.retrofit_json:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:alertDialogTheme
+          @attr name com.android.retrofitjson.retrofit_json:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -4977,117 +4977,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:autoCompleteTextViewStyle
+          @attr name com.android.retrofitjson.retrofit_json:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:borderlessButtonStyle
+          @attr name com.android.retrofitjson.retrofit_json:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:buttonBarButtonStyle
+          @attr name com.android.retrofitjson.retrofit_json:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:buttonBarNegativeButtonStyle
+          @attr name com.android.retrofitjson.retrofit_json:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:buttonBarNeutralButtonStyle
+          @attr name com.android.retrofitjson.retrofit_json:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:buttonBarPositiveButtonStyle
+          @attr name com.android.retrofitjson.retrofit_json:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:buttonBarStyle
+          @attr name com.android.retrofitjson.retrofit_json:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:buttonStyle
+          @attr name com.android.retrofitjson.retrofit_json:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:buttonStyleSmall
+          @attr name com.android.retrofitjson.retrofit_json:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:checkboxStyle
+          @attr name com.android.retrofitjson.retrofit_json:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:checkedTextViewStyle
+          @attr name com.android.retrofitjson.retrofit_json:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5098,11 +5098,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:colorAccent
+          @attr name com.android.retrofitjson.retrofit_json:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5113,11 +5113,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:colorBackgroundFloating
+          @attr name com.android.retrofitjson.retrofit_json:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5128,11 +5128,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:colorButtonNormal
+          @attr name com.android.retrofitjson.retrofit_json:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5143,11 +5143,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:colorControlActivated
+          @attr name com.android.retrofitjson.retrofit_json:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5158,11 +5158,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:colorControlHighlight
+          @attr name com.android.retrofitjson.retrofit_json:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5173,11 +5173,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:colorControlNormal
+          @attr name com.android.retrofitjson.retrofit_json:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5188,11 +5188,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:colorPrimary
+          @attr name com.android.retrofitjson.retrofit_json:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5203,11 +5203,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:colorPrimaryDark
+          @attr name com.android.retrofitjson.retrofit_json:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5218,21 +5218,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:colorSwitchThumbNormal
+          @attr name com.android.retrofitjson.retrofit_json:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:controlBackground
+          @attr name com.android.retrofitjson.retrofit_json:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5244,51 +5244,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:dialogPreferredPadding
+          @attr name com.android.retrofitjson.retrofit_json:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:dialogTheme
+          @attr name com.android.retrofitjson.retrofit_json:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:dividerHorizontal
+          @attr name com.android.retrofitjson.retrofit_json:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:dividerVertical
+          @attr name com.android.retrofitjson.retrofit_json:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:dropDownListViewStyle
+          @attr name com.android.retrofitjson.retrofit_json:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5300,21 +5300,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:dropdownListPreferredItemHeight
+          @attr name com.android.retrofitjson.retrofit_json:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:editTextBackground
+          @attr name com.android.retrofitjson.retrofit_json:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5322,81 +5322,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:editTextColor
+          @attr name com.android.retrofitjson.retrofit_json:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:editTextStyle
+          @attr name com.android.retrofitjson.retrofit_json:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:homeAsUpIndicator
+          @attr name com.android.retrofitjson.retrofit_json:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:imageButtonStyle
+          @attr name com.android.retrofitjson.retrofit_json:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:listChoiceBackgroundIndicator
+          @attr name com.android.retrofitjson.retrofit_json:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:listDividerAlertDialog
+          @attr name com.android.retrofitjson.retrofit_json:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:listMenuViewStyle
+          @attr name com.android.retrofitjson.retrofit_json:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:listPopupWindowStyle
+          @attr name com.android.retrofitjson.retrofit_json:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5408,11 +5408,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:listPreferredItemHeight
+          @attr name com.android.retrofitjson.retrofit_json:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5424,11 +5424,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:listPreferredItemHeightLarge
+          @attr name com.android.retrofitjson.retrofit_json:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5440,11 +5440,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:listPreferredItemHeightSmall
+          @attr name com.android.retrofitjson.retrofit_json:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5456,11 +5456,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:listPreferredItemPaddingLeft
+          @attr name com.android.retrofitjson.retrofit_json:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5472,31 +5472,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:listPreferredItemPaddingRight
+          @attr name com.android.retrofitjson.retrofit_json:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:panelBackground
+          @attr name com.android.retrofitjson.retrofit_json:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:panelMenuListTheme
+          @attr name com.android.retrofitjson.retrofit_json:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5508,211 +5508,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:panelMenuListWidth
+          @attr name com.android.retrofitjson.retrofit_json:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:popupMenuStyle
+          @attr name com.android.retrofitjson.retrofit_json:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:popupWindowStyle
+          @attr name com.android.retrofitjson.retrofit_json:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:radioButtonStyle
+          @attr name com.android.retrofitjson.retrofit_json:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:ratingBarStyle
+          @attr name com.android.retrofitjson.retrofit_json:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:ratingBarStyleIndicator
+          @attr name com.android.retrofitjson.retrofit_json:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:ratingBarStyleSmall
+          @attr name com.android.retrofitjson.retrofit_json:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:searchViewStyle
+          @attr name com.android.retrofitjson.retrofit_json:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:seekBarStyle
+          @attr name com.android.retrofitjson.retrofit_json:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:selectableItemBackground
+          @attr name com.android.retrofitjson.retrofit_json:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:selectableItemBackgroundBorderless
+          @attr name com.android.retrofitjson.retrofit_json:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:spinnerDropDownItemStyle
+          @attr name com.android.retrofitjson.retrofit_json:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:spinnerStyle
+          @attr name com.android.retrofitjson.retrofit_json:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:switchStyle
+          @attr name com.android.retrofitjson.retrofit_json:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:textAppearanceLargePopupMenu
+          @attr name com.android.retrofitjson.retrofit_json:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:textAppearanceListItem
+          @attr name com.android.retrofitjson.retrofit_json:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:textAppearanceListItemSmall
+          @attr name com.android.retrofitjson.retrofit_json:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:textAppearancePopupMenuHeader
+          @attr name com.android.retrofitjson.retrofit_json:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:textAppearanceSearchResultSubtitle
+          @attr name com.android.retrofitjson.retrofit_json:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:textAppearanceSearchResultTitle
+          @attr name com.android.retrofitjson.retrofit_json:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:textAppearanceSmallPopupMenu
+          @attr name com.android.retrofitjson.retrofit_json:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5720,11 +5720,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:textColorAlertDialogListItem
+          @attr name com.android.retrofitjson.retrofit_json:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5732,31 +5732,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:textColorSearchUrl
+          @attr name com.android.retrofitjson.retrofit_json:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:toolbarNavigationButtonStyle
+          @attr name com.android.retrofitjson.retrofit_json:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:toolbarStyle
+          @attr name com.android.retrofitjson.retrofit_json:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5766,11 +5766,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:windowActionBar
+          @attr name com.android.retrofitjson.retrofit_json:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5780,11 +5780,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:windowActionBarOverlay
+          @attr name com.android.retrofitjson.retrofit_json:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5794,11 +5794,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:windowActionModeOverlay
+          @attr name com.android.retrofitjson.retrofit_json:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5813,11 +5813,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:windowFixedHeightMajor
+          @attr name com.android.retrofitjson.retrofit_json:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5832,11 +5832,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:windowFixedHeightMinor
+          @attr name com.android.retrofitjson.retrofit_json:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5851,11 +5851,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:windowFixedWidthMajor
+          @attr name com.android.retrofitjson.retrofit_json:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5870,11 +5870,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:windowFixedWidthMinor
+          @attr name com.android.retrofitjson.retrofit_json:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5889,11 +5889,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:windowMinWidthMajor
+          @attr name com.android.retrofitjson.retrofit_json:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5908,11 +5908,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:windowMinWidthMinor
+          @attr name com.android.retrofitjson.retrofit_json:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5922,7 +5922,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:windowNoTitle
+          @attr name com.android.retrofitjson.retrofit_json:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -5931,10 +5931,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground com.android.retrofitjson.retrofit_json_app:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.android.retrofitjson.retrofit_json_app:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.android.retrofitjson.retrofit_json_app:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu com.android.retrofitjson.retrofit_json_app:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground com.android.retrofitjson.retrofit_json:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.android.retrofitjson.retrofit_json:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.android.retrofitjson.retrofit_json:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu com.android.retrofitjson.retrofit_json:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_itemBackground
            @see #BottomNavigationView_itemIconTint
@@ -5945,17 +5945,17 @@ containing a value of this type.
             0x7f0100dc, 0x7f0100dd, 0x7f0100de, 0x7f0100df
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:itemBackground
+          @attr name com.android.retrofitjson.retrofit_json:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -5966,11 +5966,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:itemIconTint
+          @attr name com.android.retrofitjson.retrofit_json:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -5981,17 +5981,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:itemTextColor
+          @attr name com.android.retrofitjson.retrofit_json:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:menu
+          @attr name com.android.retrofitjson.retrofit_json:menu
         */
         public static final int BottomNavigationView_menu = 0;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6000,9 +6000,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.android.retrofitjson.retrofit_json_app:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.android.retrofitjson.retrofit_json_app:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.android.retrofitjson.retrofit_json_app:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.android.retrofitjson.retrofit_json:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.android.retrofitjson.retrofit_json:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.android.retrofitjson.retrofit_json:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6012,7 +6012,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100a1, 0x7f0100a2, 0x7f0100a3
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6022,11 +6022,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:behavior_hideable
+          @attr name com.android.retrofitjson.retrofit_json:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6046,11 +6046,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:behavior_peekHeight
+          @attr name com.android.retrofitjson.retrofit_json:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6060,7 +6060,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:behavior_skipCollapsed
+          @attr name com.android.retrofitjson.retrofit_json:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6069,7 +6069,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.android.retrofitjson.retrofit_json_app:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.android.retrofitjson.retrofit_json:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6077,7 +6077,7 @@ containing a value of this type.
             0x7f0100a4
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6087,7 +6087,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:allowStacking
+          @attr name com.android.retrofitjson.retrofit_json:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -6096,22 +6096,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.android.retrofitjson.retrofit_json_app:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.android.retrofitjson.retrofit_json_app:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.android.retrofitjson.retrofit_json_app:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.android.retrofitjson.retrofit_json_app:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.android.retrofitjson.retrofit_json_app:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.android.retrofitjson.retrofit_json_app:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.android.retrofitjson.retrofit_json_app:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.android.retrofitjson.retrofit_json_app:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.android.retrofitjson.retrofit_json_app:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.android.retrofitjson.retrofit_json_app:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.android.retrofitjson.retrofit_json_app:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.android.retrofitjson.retrofit_json_app:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.android.retrofitjson.retrofit_json_app:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title com.android.retrofitjson.retrofit_json_app:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.android.retrofitjson.retrofit_json_app:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.android.retrofitjson.retrofit_json_app:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.android.retrofitjson.retrofit_json:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.android.retrofitjson.retrofit_json:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.android.retrofitjson.retrofit_json:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.android.retrofitjson.retrofit_json:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.android.retrofitjson.retrofit_json:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.android.retrofitjson.retrofit_json:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.android.retrofitjson.retrofit_json:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.android.retrofitjson.retrofit_json:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.android.retrofitjson.retrofit_json:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.android.retrofitjson.retrofit_json:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.android.retrofitjson.retrofit_json:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.android.retrofitjson.retrofit_json:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.android.retrofitjson.retrofit_json:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title com.android.retrofitjson.retrofit_json:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.android.retrofitjson.retrofit_json:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.android.retrofitjson.retrofit_json:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -6137,7 +6137,7 @@ containing a value of this type.
             0x7f0100b0, 0x7f0100b1, 0x7f0100b2, 0x7f0100b3
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6158,21 +6158,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:collapsedTitleGravity
+          @attr name com.android.retrofitjson.retrofit_json:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:collapsedTitleTextAppearance
+          @attr name com.android.retrofitjson.retrofit_json:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6183,11 +6183,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:contentScrim
+          @attr name com.android.retrofitjson.retrofit_json:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6208,11 +6208,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:expandedTitleGravity
+          @attr name com.android.retrofitjson.retrofit_json:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6224,11 +6224,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:expandedTitleMargin
+          @attr name com.android.retrofitjson.retrofit_json:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6240,11 +6240,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:expandedTitleMarginBottom
+          @attr name com.android.retrofitjson.retrofit_json:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6256,11 +6256,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:expandedTitleMarginEnd
+          @attr name com.android.retrofitjson.retrofit_json:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6272,11 +6272,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:expandedTitleMarginStart
+          @attr name com.android.retrofitjson.retrofit_json:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6288,21 +6288,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:expandedTitleMarginTop
+          @attr name com.android.retrofitjson.retrofit_json:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:expandedTitleTextAppearance
+          @attr name com.android.retrofitjson.retrofit_json:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6312,11 +6312,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:scrimAnimationDuration
+          @attr name com.android.retrofitjson.retrofit_json:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6328,11 +6328,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:scrimVisibleHeightTrigger
+          @attr name com.android.retrofitjson.retrofit_json:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6343,11 +6343,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:statusBarScrim
+          @attr name com.android.retrofitjson.retrofit_json:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#title}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6357,11 +6357,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:title
+          @attr name com.android.retrofitjson.retrofit_json:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6371,17 +6371,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:titleEnabled
+          @attr name com.android.retrofitjson.retrofit_json:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:toolbarId
+          @attr name com.android.retrofitjson.retrofit_json:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -6390,8 +6390,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.android.retrofitjson.retrofit_json_app:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.android.retrofitjson.retrofit_json_app:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.android.retrofitjson.retrofit_json:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.android.retrofitjson.retrofit_json:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -6400,7 +6400,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100b4, 0x7f0100b5
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -6414,11 +6414,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:layout_collapseMode
+          @attr name com.android.retrofitjson.retrofit_json:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -6428,7 +6428,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:layout_collapseParallaxMultiplier
+          @attr name com.android.retrofitjson.retrofit_json:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -6437,7 +6437,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.android.retrofitjson.retrofit_json_app:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.android.retrofitjson.retrofit_json:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -6449,7 +6449,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100b6
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -6459,7 +6459,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:alpha
+          @attr name com.android.retrofitjson.retrofit_json:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -6481,8 +6481,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.android.retrofitjson.retrofit_json_app:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.android.retrofitjson.retrofit_json_app:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.android.retrofitjson.retrofit_json:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.android.retrofitjson.retrofit_json:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -6498,7 +6498,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6509,11 +6509,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:buttonTint
+          @attr name com.android.retrofitjson.retrofit_json:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6529,7 +6529,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:buttonTintMode
+          @attr name com.android.retrofitjson.retrofit_json:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -6538,8 +6538,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines com.android.retrofitjson.retrofit_json_app:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.android.retrofitjson.retrofit_json_app:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.android.retrofitjson.retrofit_json:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.android.retrofitjson.retrofit_json:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -6548,23 +6548,23 @@ containing a value of this type.
             0x7f0100b9, 0x7f0100ba
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#keylines}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:keylines
+          @attr name com.android.retrofitjson.retrofit_json:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:statusBarBackground
+          @attr name com.android.retrofitjson.retrofit_json:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -6574,12 +6574,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.android.retrofitjson.retrofit_json_app:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.android.retrofitjson.retrofit_json_app:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.android.retrofitjson.retrofit_json_app:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.android.retrofitjson.retrofit_json_app:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.android.retrofitjson.retrofit_json_app:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.android.retrofitjson.retrofit_json_app:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.android.retrofitjson.retrofit_json:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.android.retrofitjson.retrofit_json:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.android.retrofitjson.retrofit_json:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.android.retrofitjson.retrofit_json:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.android.retrofitjson.retrofit_json:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.android.retrofitjson.retrofit_json:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -6600,17 +6600,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:layout_anchor
+          @attr name com.android.retrofitjson.retrofit_json:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6635,11 +6635,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:layout_anchorGravity
+          @attr name com.android.retrofitjson.retrofit_json:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6649,11 +6649,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:layout_behavior
+          @attr name com.android.retrofitjson.retrofit_json:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6672,11 +6672,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:layout_dodgeInsetEdges
+          @attr name com.android.retrofitjson.retrofit_json:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6694,11 +6694,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:layout_insetEdge
+          @attr name com.android.retrofitjson.retrofit_json:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6708,7 +6708,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:layout_keyline
+          @attr name com.android.retrofitjson.retrofit_json:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -6717,9 +6717,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.android.retrofitjson.retrofit_json_app:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.android.retrofitjson.retrofit_json_app:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError com.android.retrofitjson.retrofit_json_app:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.android.retrofitjson.retrofit_json:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.android.retrofitjson.retrofit_json:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError com.android.retrofitjson.retrofit_json:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -6729,27 +6729,27 @@ containing a value of this type.
             0x7f0100c1, 0x7f0100c2, 0x7f0100c3
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:bottomSheetDialogTheme
+          @attr name com.android.retrofitjson.retrofit_json:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:bottomSheetStyle
+          @attr name com.android.retrofitjson.retrofit_json:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -6760,7 +6760,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:textColorError
+          @attr name com.android.retrofitjson.retrofit_json:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -6769,14 +6769,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.android.retrofitjson.retrofit_json_app:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.android.retrofitjson.retrofit_json_app:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.android.retrofitjson.retrofit_json_app:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.android.retrofitjson.retrofit_json_app:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.android.retrofitjson.retrofit_json_app:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.android.retrofitjson.retrofit_json_app:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.android.retrofitjson.retrofit_json_app:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.android.retrofitjson.retrofit_json_app:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.android.retrofitjson.retrofit_json:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.android.retrofitjson.retrofit_json:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.android.retrofitjson.retrofit_json:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.android.retrofitjson.retrofit_json:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.android.retrofitjson.retrofit_json:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.android.retrofitjson.retrofit_json:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.android.retrofitjson.retrofit_json:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.android.retrofitjson.retrofit_json:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -6792,7 +6792,7 @@ containing a value of this type.
             0x7f0100c8, 0x7f0100c9, 0x7f0100ca, 0x7f0100cb
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6804,11 +6804,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:arrowHeadLength
+          @attr name com.android.retrofitjson.retrofit_json:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6820,11 +6820,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:arrowShaftLength
+          @attr name com.android.retrofitjson.retrofit_json:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6836,11 +6836,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:barLength
+          @attr name com.android.retrofitjson.retrofit_json:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#color}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6851,11 +6851,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:color
+          @attr name com.android.retrofitjson.retrofit_json:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6867,11 +6867,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:drawableSize
+          @attr name com.android.retrofitjson.retrofit_json:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6883,11 +6883,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:gapBetweenBars
+          @attr name com.android.retrofitjson.retrofit_json:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6897,11 +6897,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:spinBars
+          @attr name com.android.retrofitjson.retrofit_json:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6913,7 +6913,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:thickness
+          @attr name com.android.retrofitjson.retrofit_json:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -6922,14 +6922,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.android.retrofitjson.retrofit_json_app:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.android.retrofitjson.retrofit_json_app:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth com.android.retrofitjson.retrofit_json_app:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation com.android.retrofitjson.retrofit_json_app:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize com.android.retrofitjson.retrofit_json_app:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.android.retrofitjson.retrofit_json_app:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor com.android.retrofitjson.retrofit_json_app:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.android.retrofitjson.retrofit_json_app:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.android.retrofitjson.retrofit_json:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.android.retrofitjson.retrofit_json:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.android.retrofitjson.retrofit_json:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.android.retrofitjson.retrofit_json:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.android.retrofitjson.retrofit_json:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.android.retrofitjson.retrofit_json:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.android.retrofitjson.retrofit_json:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.android.retrofitjson.retrofit_json:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -6945,7 +6945,7 @@ containing a value of this type.
             0x7f0100cf, 0x7f0100d0, 0x7f010135, 0x7f010136
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -6956,11 +6956,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:backgroundTint
+          @attr name com.android.retrofitjson.retrofit_json:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -6976,11 +6976,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:backgroundTintMode
+          @attr name com.android.retrofitjson.retrofit_json:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -6992,11 +6992,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:borderWidth
+          @attr name com.android.retrofitjson.retrofit_json:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7008,11 +7008,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:elevation
+          @attr name com.android.retrofitjson.retrofit_json:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7026,11 +7026,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:fabSize
+          @attr name com.android.retrofitjson.retrofit_json:fabSize
         */
         public static final int FloatingActionButton_fabSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7042,11 +7042,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:pressedTranslationZ
+          @attr name com.android.retrofitjson.retrofit_json:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7057,11 +7057,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:rippleColor
+          @attr name com.android.retrofitjson.retrofit_json:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7071,7 +7071,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:useCompatPadding
+          @attr name com.android.retrofitjson.retrofit_json:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 5;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -7080,7 +7080,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.android.retrofitjson.retrofit_json_app:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.android.retrofitjson.retrofit_json:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -7088,7 +7088,7 @@ containing a value of this type.
             0x7f0100d1
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -7098,7 +7098,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:behavior_autoHide
+          @attr name com.android.retrofitjson.retrofit_json:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -7109,7 +7109,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.android.retrofitjson.retrofit_json_app:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.android.retrofitjson.retrofit_json:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -7131,7 +7131,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -7141,7 +7141,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:foregroundInsidePadding
+          @attr name com.android.retrofitjson.retrofit_json:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -7155,10 +7155,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.android.retrofitjson.retrofit_json_app:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.android.retrofitjson.retrofit_json_app:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.android.retrofitjson.retrofit_json_app:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.android.retrofitjson.retrofit_json_app:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.android.retrofitjson.retrofit_json:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.android.retrofitjson.retrofit_json:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.android.retrofitjson.retrofit_json:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.android.retrofitjson.retrofit_json:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -7206,17 +7206,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:divider
+          @attr name com.android.retrofitjson.retrofit_json:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7228,11 +7228,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:dividerPadding
+          @attr name com.android.retrofitjson.retrofit_json:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7242,11 +7242,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:measureWithLargestChild
+          @attr name com.android.retrofitjson.retrofit_json:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7261,7 +7261,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:showDividers
+          @attr name com.android.retrofitjson.retrofit_json:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -7400,9 +7400,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.android.retrofitjson.retrofit_json_app:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.android.retrofitjson.retrofit_json_app:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.android.retrofitjson.retrofit_json_app:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.android.retrofitjson.retrofit_json:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.android.retrofitjson.retrofit_json:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.android.retrofitjson.retrofit_json:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -7416,7 +7416,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.android.retrofitjson.retrofit_json_app:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.android.retrofitjson.retrofit_json:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -7444,17 +7444,17 @@ containing a value of this type.
             0x7f0100d9
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:actionLayout
+          @attr name com.android.retrofitjson.retrofit_json:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7464,11 +7464,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:actionProviderClass
+          @attr name com.android.retrofitjson.retrofit_json:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7478,7 +7478,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:actionViewClass
+          @attr name com.android.retrofitjson.retrofit_json:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -7560,7 +7560,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7576,7 +7576,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:showAsAction
+          @attr name com.android.retrofitjson.retrofit_json:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -7592,8 +7592,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.android.retrofitjson.retrofit_json_app:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.android.retrofitjson.retrofit_json_app:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.android.retrofitjson.retrofit_json:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.android.retrofitjson.retrofit_json:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -7653,7 +7653,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -7663,17 +7663,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:preserveIconSpacing
+          @attr name com.android.retrofitjson.retrofit_json:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:subMenuArrow
+          @attr name com.android.retrofitjson.retrofit_json:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -7685,13 +7685,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation com.android.retrofitjson.retrofit_json_app:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout com.android.retrofitjson.retrofit_json_app:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground com.android.retrofitjson.retrofit_json_app:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint com.android.retrofitjson.retrofit_json_app:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance com.android.retrofitjson.retrofit_json_app:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor com.android.retrofitjson.retrofit_json_app:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu com.android.retrofitjson.retrofit_json_app:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.android.retrofitjson.retrofit_json:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.android.retrofitjson.retrofit_json:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.android.retrofitjson.retrofit_json:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.android.retrofitjson.retrofit_json:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance com.android.retrofitjson.retrofit_json:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.android.retrofitjson.retrofit_json:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.android.retrofitjson.retrofit_json:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -7728,7 +7728,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -7740,31 +7740,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:elevation
+          @attr name com.android.retrofitjson.retrofit_json:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:headerLayout
+          @attr name com.android.retrofitjson.retrofit_json:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:itemBackground
+          @attr name com.android.retrofitjson.retrofit_json:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -7775,21 +7775,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:itemIconTint
+          @attr name com.android.retrofitjson.retrofit_json:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:itemTextAppearance
+          @attr name com.android.retrofitjson.retrofit_json:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -7800,17 +7800,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:itemTextColor
+          @attr name com.android.retrofitjson.retrofit_json:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:menu
+          @attr name com.android.retrofitjson.retrofit_json:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -7821,7 +7821,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.android.retrofitjson.retrofit_json_app:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.android.retrofitjson.retrofit_json:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -7843,7 +7843,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -7853,7 +7853,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:overlapAnchor
+          @attr name com.android.retrofitjson.retrofit_json:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -7862,7 +7862,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.android.retrofitjson.retrofit_json_app:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.android.retrofitjson.retrofit_json:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -7870,7 +7870,7 @@ containing a value of this type.
             0x7f0100e3
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -7880,7 +7880,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:state_above_anchor
+          @attr name com.android.retrofitjson.retrofit_json:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecyclerView.
@@ -7891,10 +7891,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.android.retrofitjson.retrofit_json_app:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.android.retrofitjson.retrofit_json_app:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.android.retrofitjson.retrofit_json_app:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.android.retrofitjson.retrofit_json_app:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.android.retrofitjson.retrofit_json:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.android.retrofitjson.retrofit_json:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.android.retrofitjson.retrofit_json:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.android.retrofitjson.retrofit_json:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -7920,7 +7920,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -7930,11 +7930,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:layoutManager
+          @attr name com.android.retrofitjson.retrofit_json:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -7944,11 +7944,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:reverseLayout
+          @attr name com.android.retrofitjson.retrofit_json:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -7958,11 +7958,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:spanCount
+          @attr name com.android.retrofitjson.retrofit_json:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -7972,7 +7972,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:stackFromEnd
+          @attr name com.android.retrofitjson.retrofit_json:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -7981,7 +7981,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.android.retrofitjson.retrofit_json_app:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.android.retrofitjson.retrofit_json:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -7989,7 +7989,7 @@ containing a value of this type.
             0x7f0100e8
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -7997,7 +7997,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:insetForeground
+          @attr name com.android.retrofitjson.retrofit_json:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -8006,7 +8006,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.android.retrofitjson.retrofit_json_app:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.android.retrofitjson.retrofit_json:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -8014,7 +8014,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100e9
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -8026,7 +8026,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:behavior_overlapTop
+          @attr name com.android.retrofitjson.retrofit_json:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -8039,19 +8039,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.android.retrofitjson.retrofit_json_app:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.android.retrofitjson.retrofit_json_app:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.android.retrofitjson.retrofit_json_app:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.android.retrofitjson.retrofit_json_app:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.android.retrofitjson.retrofit_json_app:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.android.retrofitjson.retrofit_json_app:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.android.retrofitjson.retrofit_json_app:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.android.retrofitjson.retrofit_json_app:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.android.retrofitjson.retrofit_json_app:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.android.retrofitjson.retrofit_json_app:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.android.retrofitjson.retrofit_json_app:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.android.retrofitjson.retrofit_json_app:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.android.retrofitjson.retrofit_json_app:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.android.retrofitjson.retrofit_json:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.android.retrofitjson.retrofit_json:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.android.retrofitjson.retrofit_json:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.android.retrofitjson.retrofit_json:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.android.retrofitjson.retrofit_json:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.android.retrofitjson.retrofit_json:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.android.retrofitjson.retrofit_json:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.android.retrofitjson.retrofit_json:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.android.retrofitjson.retrofit_json:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.android.retrofitjson.retrofit_json:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.android.retrofitjson.retrofit_json:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.android.retrofitjson.retrofit_json:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.android.retrofitjson.retrofit_json:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -8103,27 +8103,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:closeIcon
+          @attr name com.android.retrofitjson.retrofit_json:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:commitIcon
+          @attr name com.android.retrofitjson.retrofit_json:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8133,21 +8133,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:defaultQueryHint
+          @attr name com.android.retrofitjson.retrofit_json:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:goIcon
+          @attr name com.android.retrofitjson.retrofit_json:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8157,31 +8157,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:iconifiedByDefault
+          @attr name com.android.retrofitjson.retrofit_json:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:layout
+          @attr name com.android.retrofitjson.retrofit_json:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:queryBackground
+          @attr name com.android.retrofitjson.retrofit_json:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8191,57 +8191,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:queryHint
+          @attr name com.android.retrofitjson.retrofit_json:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:searchHintIcon
+          @attr name com.android.retrofitjson.retrofit_json:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:searchIcon
+          @attr name com.android.retrofitjson.retrofit_json:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:submitBackground
+          @attr name com.android.retrofitjson.retrofit_json:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:suggestionRowLayout
+          @attr name com.android.retrofitjson.retrofit_json:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:voiceIcon
+          @attr name com.android.retrofitjson.retrofit_json:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -8251,8 +8251,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation com.android.retrofitjson.retrofit_json_app:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.android.retrofitjson.retrofit_json_app:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.android.retrofitjson.retrofit_json:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.android.retrofitjson.retrofit_json:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -8268,7 +8268,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -8280,11 +8280,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:elevation
+          @attr name com.android.retrofitjson.retrofit_json:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -8296,7 +8296,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:maxActionInlineWidth
+          @attr name com.android.retrofitjson.retrofit_json:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -8309,7 +8309,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.android.retrofitjson.retrofit_json_app:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.android.retrofitjson.retrofit_json:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -8346,13 +8346,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:popupTheme
+          @attr name com.android.retrofitjson.retrofit_json:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -8364,17 +8364,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.android.retrofitjson.retrofit_json_app:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.android.retrofitjson.retrofit_json_app:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.android.retrofitjson.retrofit_json_app:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.android.retrofitjson.retrofit_json_app:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.android.retrofitjson.retrofit_json_app:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.android.retrofitjson.retrofit_json_app:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.android.retrofitjson.retrofit_json_app:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.android.retrofitjson.retrofit_json_app:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.android.retrofitjson.retrofit_json_app:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.android.retrofitjson.retrofit_json_app:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.android.retrofitjson.retrofit_json_app:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.android.retrofitjson.retrofit_json:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.android.retrofitjson.retrofit_json:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.android.retrofitjson.retrofit_json:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.android.retrofitjson.retrofit_json:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.android.retrofitjson.retrofit_json:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.android.retrofitjson.retrofit_json:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.android.retrofitjson.retrofit_json:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.android.retrofitjson.retrofit_json:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.android.retrofitjson.retrofit_json:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.android.retrofitjson.retrofit_json:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.android.retrofitjson.retrofit_json:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -8416,7 +8416,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8426,11 +8426,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:showText
+          @attr name com.android.retrofitjson.retrofit_json:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8440,11 +8440,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:splitTrack
+          @attr name com.android.retrofitjson.retrofit_json:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8456,11 +8456,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:switchMinWidth
+          @attr name com.android.retrofitjson.retrofit_json:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8472,21 +8472,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:switchPadding
+          @attr name com.android.retrofitjson.retrofit_json:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:switchTextAppearance
+          @attr name com.android.retrofitjson.retrofit_json:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8498,11 +8498,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:thumbTextPadding
+          @attr name com.android.retrofitjson.retrofit_json:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8513,11 +8513,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:thumbTint
+          @attr name com.android.retrofitjson.retrofit_json:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8534,21 +8534,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:thumbTintMode
+          @attr name com.android.retrofitjson.retrofit_json:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#track}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:track
+          @attr name com.android.retrofitjson.retrofit_json:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8559,11 +8559,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:trackTint
+          @attr name com.android.retrofitjson.retrofit_json:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8580,7 +8580,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:trackTintMode
+          @attr name com.android.retrofitjson.retrofit_json:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -8624,22 +8624,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground com.android.retrofitjson.retrofit_json_app:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart com.android.retrofitjson.retrofit_json_app:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity com.android.retrofitjson.retrofit_json_app:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.android.retrofitjson.retrofit_json_app:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.android.retrofitjson.retrofit_json_app:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth com.android.retrofitjson.retrofit_json_app:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth com.android.retrofitjson.retrofit_json_app:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode com.android.retrofitjson.retrofit_json_app:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding com.android.retrofitjson.retrofit_json_app:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.android.retrofitjson.retrofit_json_app:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.android.retrofitjson.retrofit_json_app:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart com.android.retrofitjson.retrofit_json_app:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop com.android.retrofitjson.retrofit_json_app:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.android.retrofitjson.retrofit_json_app:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance com.android.retrofitjson.retrofit_json_app:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor com.android.retrofitjson.retrofit_json_app:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.android.retrofitjson.retrofit_json:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.android.retrofitjson.retrofit_json:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.android.retrofitjson.retrofit_json:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.android.retrofitjson.retrofit_json:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.android.retrofitjson.retrofit_json:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.android.retrofitjson.retrofit_json:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.android.retrofitjson.retrofit_json:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.android.retrofitjson.retrofit_json:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.android.retrofitjson.retrofit_json:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.android.retrofitjson.retrofit_json:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.android.retrofitjson.retrofit_json:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.android.retrofitjson.retrofit_json:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.android.retrofitjson.retrofit_json:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.android.retrofitjson.retrofit_json:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.android.retrofitjson.retrofit_json:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.android.retrofitjson.retrofit_json:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -8665,17 +8665,17 @@ containing a value of this type.
             0x7f01010f, 0x7f010110, 0x7f010111, 0x7f010112
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:tabBackground
+          @attr name com.android.retrofitjson.retrofit_json:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8687,11 +8687,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:tabContentStart
+          @attr name com.android.retrofitjson.retrofit_json:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8704,11 +8704,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:tabGravity
+          @attr name com.android.retrofitjson.retrofit_json:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8719,11 +8719,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:tabIndicatorColor
+          @attr name com.android.retrofitjson.retrofit_json:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8735,11 +8735,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:tabIndicatorHeight
+          @attr name com.android.retrofitjson.retrofit_json:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8751,11 +8751,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:tabMaxWidth
+          @attr name com.android.retrofitjson.retrofit_json:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8767,11 +8767,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:tabMinWidth
+          @attr name com.android.retrofitjson.retrofit_json:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8784,11 +8784,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:tabMode
+          @attr name com.android.retrofitjson.retrofit_json:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8800,11 +8800,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:tabPadding
+          @attr name com.android.retrofitjson.retrofit_json:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8816,11 +8816,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:tabPaddingBottom
+          @attr name com.android.retrofitjson.retrofit_json:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8832,11 +8832,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:tabPaddingEnd
+          @attr name com.android.retrofitjson.retrofit_json:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8848,11 +8848,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:tabPaddingStart
+          @attr name com.android.retrofitjson.retrofit_json:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8864,11 +8864,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:tabPaddingTop
+          @attr name com.android.retrofitjson.retrofit_json:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8879,21 +8879,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:tabSelectedTextColor
+          @attr name com.android.retrofitjson.retrofit_json:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:tabTextAppearance
+          @attr name com.android.retrofitjson.retrofit_json:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8904,7 +8904,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:tabTextColor
+          @attr name com.android.retrofitjson.retrofit_json:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -8922,7 +8922,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.android.retrofitjson.retrofit_json_app:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.android.retrofitjson.retrofit_json:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -8995,14 +8995,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:textAllCaps
+          @attr name com.android.retrofitjson.retrofit_json:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -9013,20 +9013,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled com.android.retrofitjson.retrofit_json_app:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.android.retrofitjson.retrofit_json_app:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.android.retrofitjson.retrofit_json_app:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.android.retrofitjson.retrofit_json_app:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled com.android.retrofitjson.retrofit_json_app:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.android.retrofitjson.retrofit_json_app:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.android.retrofitjson.retrofit_json_app:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled com.android.retrofitjson.retrofit_json_app:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.android.retrofitjson.retrofit_json_app:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.android.retrofitjson.retrofit_json_app:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.android.retrofitjson.retrofit_json_app:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.android.retrofitjson.retrofit_json_app:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.android.retrofitjson.retrofit_json_app:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.android.retrofitjson.retrofit_json_app:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled com.android.retrofitjson.retrofit_json:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.android.retrofitjson.retrofit_json:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.android.retrofitjson.retrofit_json:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.android.retrofitjson.retrofit_json:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.android.retrofitjson.retrofit_json:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.android.retrofitjson.retrofit_json:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.android.retrofitjson.retrofit_json:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled com.android.retrofitjson.retrofit_json:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.android.retrofitjson.retrofit_json:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.android.retrofitjson.retrofit_json:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.android.retrofitjson.retrofit_json:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.android.retrofitjson.retrofit_json:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.android.retrofitjson.retrofit_json:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.android.retrofitjson.retrofit_json:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -9064,7 +9064,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9074,11 +9074,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:counterEnabled
+          @attr name com.android.retrofitjson.retrofit_json:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9088,31 +9088,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:counterMaxLength
+          @attr name com.android.retrofitjson.retrofit_json:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:counterOverflowTextAppearance
+          @attr name com.android.retrofitjson.retrofit_json:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:counterTextAppearance
+          @attr name com.android.retrofitjson.retrofit_json:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9122,21 +9122,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:errorEnabled
+          @attr name com.android.retrofitjson.retrofit_json:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:errorTextAppearance
+          @attr name com.android.retrofitjson.retrofit_json:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9146,11 +9146,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:hintAnimationEnabled
+          @attr name com.android.retrofitjson.retrofit_json:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9160,21 +9160,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:hintEnabled
+          @attr name com.android.retrofitjson.retrofit_json:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:hintTextAppearance
+          @attr name com.android.retrofitjson.retrofit_json:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9184,21 +9184,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:passwordToggleContentDescription
+          @attr name com.android.retrofitjson.retrofit_json:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:passwordToggleDrawable
+          @attr name com.android.retrofitjson.retrofit_json:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9208,11 +9208,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:passwordToggleEnabled
+          @attr name com.android.retrofitjson.retrofit_json:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9223,11 +9223,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:passwordToggleTint
+          @attr name com.android.retrofitjson.retrofit_json:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9243,7 +9243,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:passwordToggleTintMode
+          @attr name com.android.retrofitjson.retrofit_json:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -9254,33 +9254,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.android.retrofitjson.retrofit_json_app:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.android.retrofitjson.retrofit_json_app:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.android.retrofitjson.retrofit_json_app:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.android.retrofitjson.retrofit_json_app:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.android.retrofitjson.retrofit_json_app:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.android.retrofitjson.retrofit_json_app:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.android.retrofitjson.retrofit_json_app:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.android.retrofitjson.retrofit_json_app:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.android.retrofitjson.retrofit_json_app:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.android.retrofitjson.retrofit_json_app:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.android.retrofitjson.retrofit_json_app:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.android.retrofitjson.retrofit_json_app:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.android.retrofitjson.retrofit_json_app:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.android.retrofitjson.retrofit_json_app:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.android.retrofitjson.retrofit_json_app:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.android.retrofitjson.retrofit_json_app:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.android.retrofitjson.retrofit_json_app:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.android.retrofitjson.retrofit_json_app:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.android.retrofitjson.retrofit_json_app:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.android.retrofitjson.retrofit_json_app:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.android.retrofitjson.retrofit_json_app:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.android.retrofitjson.retrofit_json_app:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.android.retrofitjson.retrofit_json_app:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.android.retrofitjson.retrofit_json_app:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.android.retrofitjson.retrofit_json_app:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.android.retrofitjson.retrofit_json_app:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.android.retrofitjson.retrofit_json_app:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.android.retrofitjson.retrofit_json:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.android.retrofitjson.retrofit_json:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.android.retrofitjson.retrofit_json:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.android.retrofitjson.retrofit_json:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.android.retrofitjson.retrofit_json:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.android.retrofitjson.retrofit_json:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.android.retrofitjson.retrofit_json:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.android.retrofitjson.retrofit_json:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.android.retrofitjson.retrofit_json:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.android.retrofitjson.retrofit_json:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.android.retrofitjson.retrofit_json:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.android.retrofitjson.retrofit_json:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.android.retrofitjson.retrofit_json:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.android.retrofitjson.retrofit_json:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.android.retrofitjson.retrofit_json:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.android.retrofitjson.retrofit_json:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.android.retrofitjson.retrofit_json:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.android.retrofitjson.retrofit_json:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.android.retrofitjson.retrofit_json:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.android.retrofitjson.retrofit_json:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.android.retrofitjson.retrofit_json:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.android.retrofitjson.retrofit_json:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.android.retrofitjson.retrofit_json:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.android.retrofitjson.retrofit_json:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.android.retrofitjson.retrofit_json:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.android.retrofitjson.retrofit_json:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.android.retrofitjson.retrofit_json:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -9335,7 +9335,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9348,11 +9348,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:buttonGravity
+          @attr name com.android.retrofitjson.retrofit_json:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9362,21 +9362,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:collapseContentDescription
+          @attr name com.android.retrofitjson.retrofit_json:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:collapseIcon
+          @attr name com.android.retrofitjson.retrofit_json:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9388,11 +9388,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:contentInsetEnd
+          @attr name com.android.retrofitjson.retrofit_json:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9404,11 +9404,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:contentInsetEndWithActions
+          @attr name com.android.retrofitjson.retrofit_json:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9420,11 +9420,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:contentInsetLeft
+          @attr name com.android.retrofitjson.retrofit_json:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9436,11 +9436,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:contentInsetRight
+          @attr name com.android.retrofitjson.retrofit_json:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9452,11 +9452,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:contentInsetStart
+          @attr name com.android.retrofitjson.retrofit_json:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9468,21 +9468,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:contentInsetStartWithNavigation
+          @attr name com.android.retrofitjson.retrofit_json:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:logo
+          @attr name com.android.retrofitjson.retrofit_json:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9492,11 +9492,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:logoDescription
+          @attr name com.android.retrofitjson.retrofit_json:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9508,11 +9508,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:maxButtonHeight
+          @attr name com.android.retrofitjson.retrofit_json:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9522,31 +9522,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:navigationContentDescription
+          @attr name com.android.retrofitjson.retrofit_json:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:navigationIcon
+          @attr name com.android.retrofitjson.retrofit_json:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:popupTheme
+          @attr name com.android.retrofitjson.retrofit_json:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9556,21 +9556,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:subtitle
+          @attr name com.android.retrofitjson.retrofit_json:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:subtitleTextAppearance
+          @attr name com.android.retrofitjson.retrofit_json:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9581,11 +9581,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:subtitleTextColor
+          @attr name com.android.retrofitjson.retrofit_json:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#title}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9595,11 +9595,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:title
+          @attr name com.android.retrofitjson.retrofit_json:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9611,11 +9611,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:titleMargin
+          @attr name com.android.retrofitjson.retrofit_json:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9627,11 +9627,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:titleMarginBottom
+          @attr name com.android.retrofitjson.retrofit_json:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9643,11 +9643,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:titleMarginEnd
+          @attr name com.android.retrofitjson.retrofit_json:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9659,11 +9659,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:titleMarginStart
+          @attr name com.android.retrofitjson.retrofit_json:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9675,11 +9675,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:titleMarginTop
+          @attr name com.android.retrofitjson.retrofit_json:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9691,21 +9691,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:titleMargins
+          @attr name com.android.retrofitjson.retrofit_json:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:titleTextAppearance
+          @attr name com.android.retrofitjson.retrofit_json:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9716,7 +9716,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:titleTextColor
+          @attr name com.android.retrofitjson.retrofit_json:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -9727,9 +9727,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.android.retrofitjson.retrofit_json_app:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.android.retrofitjson.retrofit_json_app:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.android.retrofitjson.retrofit_json_app:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.android.retrofitjson.retrofit_json:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.android.retrofitjson.retrofit_json:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.android.retrofitjson.retrofit_json:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -9754,7 +9754,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -9766,11 +9766,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:paddingEnd
+          @attr name com.android.retrofitjson.retrofit_json:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -9782,17 +9782,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:paddingStart
+          @attr name com.android.retrofitjson.retrofit_json:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.retrofitjson.retrofit_json_app:theme
+          @attr name com.android.retrofitjson.retrofit_json:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -9802,8 +9802,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.android.retrofitjson.retrofit_json_app:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.android.retrofitjson.retrofit_json_app:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.android.retrofitjson.retrofit_json:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.android.retrofitjson.retrofit_json:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -9819,7 +9819,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -9830,11 +9830,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.retrofitjson.retrofit_json_app:backgroundTint
+          @attr name com.android.retrofitjson.retrofit_json:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json_app.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.android.retrofitjson.retrofit_json.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -9850,7 +9850,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.android.retrofitjson.retrofit_json_app:backgroundTintMode
+          @attr name com.android.retrofitjson.retrofit_json:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

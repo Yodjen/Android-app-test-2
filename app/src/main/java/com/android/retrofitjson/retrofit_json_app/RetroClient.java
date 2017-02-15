@@ -12,12 +12,26 @@ public class RetroClient {
     /**
      *  URLS
      */
-    private static final String ROOT_URL = "https://api.myjson.com/bins/7tghr";
+    private static final String ROOT_URL = "https://api.myjson.com";
 
+    /**
+     *
+     * GET Retrofit Instance
+     *
+     */
     private static Retrofit getRetrofitInstance(){
         return new Retrofit.Builder()
                 .baseUrl(ROOT_URL)
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
+    }
+
+    /**
+     * GET API Service
+     */
+
+    public static ApiService getApiService(){
+       // return getRetrofitInstance().create(ApiService.class);
+        return getRetrofitInstance().create(ApiService.class);
     }
 }

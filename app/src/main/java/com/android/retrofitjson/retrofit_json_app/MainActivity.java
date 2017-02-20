@@ -17,6 +17,10 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
+import retrofit2.Call;
+import retrofit2.Callback;
+import retrofit2.Response;
+
 public class MainActivity extends AppCompatActivity {
 
     private ListView listView;
@@ -42,12 +46,13 @@ public class MainActivity extends AppCompatActivity {
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                Snackbar.make(parentView,contactList.get(position).getName() + " => " + contactList.get(position).getPhone().getHome(),Snackbar.LENGTH_LONG).show();
+//                Snackbar.make(parentView, contactList.get(position).getName() + " => " + contactList.get(position).getPhone().getHome(), Snackbar.LENGTH_LONG).show();
+                Snackbar.make(parentView, contactList.get(position).getName() + " => " + contactList.get(position).getPhone().getMobile(), Snackbar.LENGTH_LONG).show();
             }
         });
 
-        Toast toast = Toast.makeText(getApplicationContext(),R.string.string_click_to_load,Toast.LENGTH_LONG);
-        toast.setGravity(Gravity.CENTER,0,0);
+        Toast toast = Toast.makeText(getApplicationContext(), R.string.string_click_to_load, Toast.LENGTH_LONG);
+        toast.setGravity(Gravity.CENTER, 0, 0);
         toast.show();
 
 
@@ -61,21 +66,58 @@ public class MainActivity extends AppCompatActivity {
                 /**
                  * Checking internet connection
                  */
-                if(InternetConnection.ckeckConnection(getApplicationContext())){
+                if (InternetConnection.ckeckConnection(getApplicationContext())) {
                     final ProgressDialog dialog;
                     /**
-                     * Progres dialog for User Interaction
+                     * Progress Dialog for User Interaction
                      */
                     dialog = new ProgressDialog(MainActivity.this);
                     dialog.setTitle(getString(R.string.string_getting_gson_title));
                     dialog.setMessage(getString(R.string.string_getting_gson_massage));
                     dialog.show();
 
-//                    Creation an object from api interface
+                    //Creating an object of our api interface
                     ApiService api = RetroClient.getApiService();
-                }
-                else {
 
+                    /**
+                     * Calling JSON
+                     */
+                    Call<ContactList> call = api.getMyJSON();
+
+                    /**
+                     * Enqueue Callback will be call when get response...
+                     */
+                    call.enqueue(new Callback<ContactList>() {
+                        @Override
+                        public void onResponse(Call<ContactList> call, Response<ContactList> response) {
+                            //Dismiss Dialog
+                            dialog.dismiss();
+
+                            if (response.isSuccessful()) {
+                                /**
+                                 * Got Successfully
+                                 */
+                                contactList = response.body().getContacts();
+
+                                /**
+                                 * Binding that List to Adapter
+                                 */
+                                adapter = new ContactAdapter(MainActivity.this, contactList);
+                                listView.setAdapter(adapter);
+
+                            } else {
+                                Snackbar.make(parentView, R.string.string_some_thing_wrong, Snackbar.LENGTH_LONG).show();
+                            }
+                        }
+
+                        @Override
+                        public void onFailure(Call<ContactList> call, Throwable t) {
+                            dialog.dismiss();
+                        }
+                    });
+
+                } else {
+                    Snackbar.make(parentView, R.string.string_internet_connection_not_available, Snackbar.LENGTH_LONG).show();
                 }
             }
         });
@@ -83,7 +125,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    @Override
+   /* @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
@@ -103,5 +145,5 @@ public class MainActivity extends AppCompatActivity {
         }
 
         return super.onOptionsItemSelected(item);
-    }
+    }*/
 }

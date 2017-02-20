@@ -14,6 +14,7 @@ public class InternetConnection {
      * CHECK WHETHER INTERNET CONNECTION AVAILABLE OR NOT
      */
     public static boolean ckeckConnection(@NonNull Context context){
-        return ( (ConnectivityManager) context.getSystemService(Context.CONNECTIVITY_SERVICE)).getActiveNetworkInfo() != null;
+        return ( (ConnectivityManager) context.getSystemService
+                (Context.CONNECTIVITY_SERVICE)).getActiveNetworkInfo() != null;
     }
 }

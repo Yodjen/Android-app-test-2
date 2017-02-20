@@ -586,6 +586,8 @@
     <string name="string_click_to_load">Hello world! I`m Android dev!!!</string>
     <string name="string_getting_gson_massage">Getting info from server</string>
     <string name="string_getting_gson_title">WAIT</string>
+    <string name="string_internet_connection_not_available">Internet connection not available</string>
+    <string name="string_some_thing_wrong">Something went wrong</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
@@ -594,7 +596,8 @@
         <item name="android:windowEnterAnimation">@anim/design_bottom_sheet_slide_in</item>
         <item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
     </style>
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar"> -->
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>

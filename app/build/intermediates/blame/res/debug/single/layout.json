@@ -68,6 +68,10 @@
         "source": "D:\\Programming\\Android\\Course from Alex Barchuk\\Retrofit_JSON_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
+        "merged": "D:\\Programming\\Android\\Course from Alex Barchuk\\Retrofit_JSON_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_row_view.xml",
+        "source": "D:\\Programming\\Android\\Course from Alex Barchuk\\Retrofit_JSON_App\\app\\src\\main\\res\\layout\\layout_row_view.xml"
+    },
+    {
         "merged": "D:\\Programming\\Android\\Course from Alex Barchuk\\Retrofit_JSON_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "D:\\Programming\\Android\\Course from Alex Barchuk\\Retrofit_JSON_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },

@@ -8,7 +8,7 @@ import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
 public class Contact {
-// fvdfvdf
+
     @SerializedName("_id")
     @Expose
     private String id;
@@ -86,7 +86,7 @@ public class Contact {
     public void setPhone(Phone phone) {
         this.phone = phone;
     }
-//fdgdgd
+
     public class Phone {
 
         @SerializedName("mobile")

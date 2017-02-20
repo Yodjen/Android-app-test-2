@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Retrofit_JSON_App</string>
     <string name="action_settings">Settings</string>
+    <string name="string_click_to_load">Hello world! I`m Android dev!!!</string>
+    <string name="string_getting_gson_title">WAIT</string>
+    <string name="string_getting_gson_massage">Getting info from server</string>
 </resources>

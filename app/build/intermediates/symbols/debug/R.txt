@@ -928,6 +928,9 @@ int string bottom_sheet_behavior 0x7f060024
 int string character_counter_pattern 0x7f060025
 int string search_menu_title 0x7f060013
 int string status_bar_notification_info_overflow 0x7f060014
+int string string_click_to_load 0x7f060026
+int string string_getting_gson_massage 0x7f060027
+int string string_getting_gson_title 0x7f060028
 int style AlertDialog_AppCompat 0x7f08009b
 int style AlertDialog_AppCompat_Light 0x7f08009c
 int style Animation_AppCompat_Dialog 0x7f08009d

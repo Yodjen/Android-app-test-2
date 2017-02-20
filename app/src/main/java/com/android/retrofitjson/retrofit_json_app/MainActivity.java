@@ -1,15 +1,19 @@
 package com.android.retrofitjson.retrofit_json_app;
 
+import android.app.ProgressDialog;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.view.Gravity;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 
@@ -33,6 +37,8 @@ public class MainActivity extends AppCompatActivity {
 
         contactList = new ArrayList<>();
         parentView = findViewById(R.id.parentLayout);
+
+        listView = (ListView) findViewById(R.id.listView);
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
@@ -40,16 +46,41 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Toast toast = Toast.makeText(getApplicationContext(),R.string.string_click_to_load,Toast.LENGTH_LONG);
+        toast.setGravity(Gravity.CENTER,0,0);
+        toast.show();
 
-        /*
+
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        assert fab != null;
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+            public void onClick(@NonNull final View view) {
+//                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+//                        .setAction("Action", null).show();
+                /**
+                 * Checking internet connection
+                 */
+                if(InternetConnection.ckeckConnection(getApplicationContext())){
+                    final ProgressDialog dialog;
+                    /**
+                     * Progres dialog for User Interaction
+                     */
+                    dialog = new ProgressDialog(MainActivity.this);
+                    dialog.setTitle(getString(R.string.string_getting_gson_title));
+                    dialog.setMessage(getString(R.string.string_getting_gson_massage));
+                    dialog.show();
+
+//                    Creation an object from api interface
+                    ApiService api = RetroClient.getApiService();
+                }
+                else {
+
+                }
             }
-        });*/
+        });
+
+
     }
 
     @Override

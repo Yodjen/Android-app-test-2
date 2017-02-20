@@ -583,6 +583,9 @@
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="string_click_to_load">Hello world! I`m Android dev!!!</string>
+    <string name="string_getting_gson_massage">Getting info from server</string>
+    <string name="string_getting_gson_title">WAIT</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

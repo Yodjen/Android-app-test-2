@@ -151,7 +151,7 @@ public class MainActivity extends AppCompatActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
-//
+
             Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri
                     .parse("https://luxuri.000webhostapp.com/luxuri"));
             startActivity(browserIntent);

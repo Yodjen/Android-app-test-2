@@ -2634,6 +2634,7 @@ containing a value of this type.
         public static final int action_mode_bar_stub=0x7f0c005c;
         public static final int action_mode_close_button=0x7f0c0041;
         public static final int action_settings=0x7f0c0099;
+        public static final int action_sourse=0x7f0c009a;
         public static final int action_text=0x7f0c0084;
         public static final int actions=0x7f0c0092;
         public static final int activity_chooser_view_content=0x7f0c0042;
@@ -2882,19 +2883,21 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with=0x7f060010;
         public static final int abc_shareactionprovider_share_with_application=0x7f060011;
         public static final int abc_toolbar_collapse_description=0x7f060012;
-        public static final int action_settings=0x7f060021;
-        public static final int app_name=0x7f060022;
-        public static final int appbar_scrolling_view_behavior=0x7f060023;
-        public static final int bottom_sheet_behavior=0x7f060024;
-        public static final int character_counter_pattern=0x7f060025;
+        public static final int action_about=0x7f060021;
+        public static final int action_settings=0x7f060022;
+        public static final int app_name=0x7f060023;
+        public static final int appbar_scrolling_view_behavior=0x7f060024;
+        public static final int bottom_sheet_behavior=0x7f060025;
+        public static final int character_counter_pattern=0x7f060026;
         public static final int search_menu_title=0x7f060013;
         public static final int status_bar_notification_info_overflow=0x7f060014;
-        public static final int string_click_to_load=0x7f060026;
-        public static final int string_getting_gson_massage=0x7f060027;
-        public static final int string_getting_gson_title=0x7f060028;
-        public static final int string_internet_connection_not_available=0x7f060029;
-        public static final int string_luxury=0x7f06002a;
-        public static final int string_some_thing_wrong=0x7f06002b;
+        public static final int string_about=0x7f060027;
+        public static final int string_click_to_load=0x7f060028;
+        public static final int string_getting_gson_massage=0x7f060029;
+        public static final int string_getting_gson_title=0x7f06002a;
+        public static final int string_internet_connection_not_available=0x7f06002b;
+        public static final int string_luxury=0x7f06002c;
+        public static final int string_some_thing_wrong=0x7f06002d;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f08009b;

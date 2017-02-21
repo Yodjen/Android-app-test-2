@@ -142,6 +142,8 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
@@ -163,8 +165,12 @@ public class MainActivity extends AppCompatActivity {
             Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri
                     .parse("https://luxuri.000webhostapp.com/luxuri"));
             startActivity(browserIntent);
-//            Snackbar.make(parentView, R.string.string_luxury, Snackbar.LENGTH_LONG).show();
             return true;
+        }
+        if (id == R.id.action_sourse){
+            Snackbar.make(parentView, R.string.string_about, Snackbar.LENGTH_LONG).show();
+            return true;
+//            android.os.Process.killProcess(android.os.Process.myPid());
         }
 
         item.setOnActionExpandListener(new MenuItem.OnActionExpandListener() {

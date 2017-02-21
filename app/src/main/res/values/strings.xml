@@ -6,4 +6,5 @@
     <string name="string_getting_gson_massage">Getting info from server</string>
     <string name="string_some_thing_wrong">Something went wrong</string>
     <string name="string_internet_connection_not_available">Internet connection not available</string>
+    <string name="string_luxury">https://luxuri.000webhostapp.com/luxuri</string>
 </resources>

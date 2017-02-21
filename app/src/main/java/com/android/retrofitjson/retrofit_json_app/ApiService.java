@@ -11,6 +11,7 @@ public interface ApiService {
      *  GET annotation from our URL
      *
      */
-    @GET("/bins/7tghr")
+//    @GET("/bins/7tghr")
+    @GET("/luxuri")
     Call<ContactList> getMyJSON();
 }

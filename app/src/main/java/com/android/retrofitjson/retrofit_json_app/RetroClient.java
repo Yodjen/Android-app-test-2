@@ -12,7 +12,8 @@ public class RetroClient {
     /**
      *  URLS
      */
-    private static final String ROOT_URL = "https://api.myjson.com";
+//    private static final String ROOT_URL = "https://api.myjson.com";
+    private static final String ROOT_URL = "https://luxuri.000webhostapp.com";
 
     /**
      *

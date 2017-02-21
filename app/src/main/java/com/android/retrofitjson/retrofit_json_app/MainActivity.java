@@ -1,6 +1,8 @@
 package com.android.retrofitjson.retrofit_json_app;
 
 import android.app.ProgressDialog;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
@@ -29,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
     private ContactAdapter adapter;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -47,7 +50,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 //                Snackbar.make(parentView, contactList.get(position).getName() + " => " + contactList.get(position).getPhone().getHome(), Snackbar.LENGTH_LONG).show();
-                Snackbar.make(parentView, contactList.get(position).getName() + " => " + contactList.get(position).getPhone().getMobile(), Snackbar.LENGTH_LONG).show();
+                Snackbar.make(parentView, contactList.get(position).getName() + " => "
+                        + contactList.get(position).getPhone().getMobile(), Snackbar.LENGTH_LONG).show();
             }
         });
 
@@ -123,9 +127,14 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
+
+
+
+
+
     }
 
-   /* @Override
+    @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
@@ -139,11 +148,28 @@ public class MainActivity extends AppCompatActivity {
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
 
+
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+
+            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri
+                    .parse("https://luxuri.000webhostapp.com/luxuri"));
+            startActivity(browserIntent);
+//            Snackbar.make(parentView, R.string.string_luxury, Snackbar.LENGTH_LONG).show();
             return true;
         }
 
+        item.setOnActionExpandListener(new MenuItem.OnActionExpandListener() {
+            @Override
+            public boolean onMenuItemActionExpand(MenuItem menuItem) {
+                return false;
+            }
+
+            @Override
+            public boolean onMenuItemActionCollapse(MenuItem menuItem) {
+                return false;
+            }
+        });
         return super.onOptionsItemSelected(item);
-    }*/
+    }
 }

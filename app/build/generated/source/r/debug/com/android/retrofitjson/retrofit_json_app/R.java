@@ -2893,7 +2893,8 @@ containing a value of this type.
         public static final int string_getting_gson_massage=0x7f060027;
         public static final int string_getting_gson_title=0x7f060028;
         public static final int string_internet_connection_not_available=0x7f060029;
-        public static final int string_some_thing_wrong=0x7f06002a;
+        public static final int string_luxury=0x7f06002a;
+        public static final int string_some_thing_wrong=0x7f06002b;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f08009b;

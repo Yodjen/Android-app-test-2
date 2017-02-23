@@ -71,6 +71,7 @@ public class MainActivity extends AppCompatActivity {
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         assert fab != null;
         fab.setOnClickListener(new View.OnClickListener() {
+            
             @Override
             public void onClick(@NonNull final View view) {
 //                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
@@ -104,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
                         public void onResponse(Call<ContactList> call, Response<ContactList> response) {
                             //Dismiss Dialog
                             dialog.dismiss();
-
+//
                             if (response.isSuccessful()) {
                                 /**
                                  * Got Successfully
@@ -133,13 +134,6 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-
-
-
-
-
-
-
     }
 
 

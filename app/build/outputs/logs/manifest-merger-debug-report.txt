@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:3:5-57
 		INJECTED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml
@@ -26,7 +26,7 @@ ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app
 	android:name
 		ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:7:22-73
 application
-ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:9:5-25:19
+ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:9:5-24:19
 MERGED from [com.android.support:design:25.0.0] D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:25.0.0] D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.0.0] D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\AndroidManifest.xml:22:5-20
@@ -49,7 +49,7 @@ MERGED from [com.android.support:support-compat:25.0.0] D:\Programming\Android\C
 	android:theme
 		ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:14:9-40
 activity#com.android.retrofitjson.retrofit_json_app.activity.MainActivity
-ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:15:9-24:20
+ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:15:9-23:20
 	android:label
 		ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:17:13-45
 	android:theme
@@ -57,15 +57,15 @@ ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app
 	android:name
 		ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:16:13-50
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
 ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
 		ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
 INJECTED from D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.0.0] D:\Programming\Android\Course from Alex Barchuk\Retrofit_JSON_App\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\AndroidManifest.xml:21:5-23:62
